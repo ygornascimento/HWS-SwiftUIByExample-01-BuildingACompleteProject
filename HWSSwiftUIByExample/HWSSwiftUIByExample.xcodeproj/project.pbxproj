@@ -20,6 +20,7 @@
 		1EA6D1402A56F5EC008944C0 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 1EA6D13F2A56F5EC008944C0 /* menu.json */; };
 		1EA6D1422A57054B008944C0 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EA6D1412A57054B008944C0 /* ItemRow.swift */; };
 		1EA6D1442A573F98008944C0 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EA6D1432A573F98008944C0 /* ItemDetail.swift */; };
+		1EB031232A891B620018B3BD /* StringsSamplesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EB031222A891B620018B3BD /* StringsSamplesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		1EA6D13F2A56F5EC008944C0 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		1EA6D1412A57054B008944C0 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		1EA6D1432A573F98008944C0 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
+		1EB031222A891B620018B3BD /* StringsSamplesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringsSamplesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				1EA6D13C2A56F59C008944C0 /* Order.swift */,
 				1E6B072C2A5D6E20001A4386 /* OrderView.swift */,
 				1E6B072E2A5DCCF4001A4386 /* MainView.swift */,
+				1EB031222A891B620018B3BD /* StringsSamplesView.swift */,
 				1EA6D13F2A56F5EC008944C0 /* menu.json */,
 				1EA6D12F2A55D7EC008944C0 /* Assets.xcassets */,
 				1EA6D1312A55D7EC008944C0 /* Preview Content */,
@@ -172,6 +175,7 @@
 				1EA6D12E2A55D7EC008944C0 /* ContentView.swift in Sources */,
 				1EA6D12C2A55D7EC008944C0 /* HWSSwiftUIByExampleApp.swift in Sources */,
 				1EA6D13E2A56F59C008944C0 /* Order.swift in Sources */,
+				1EB031232A891B620018B3BD /* StringsSamplesView.swift in Sources */,
 				1EA6D1422A57054B008944C0 /* ItemRow.swift in Sources */,
 				1EA6D13D2A56F59C008944C0 /* Menu.swift in Sources */,
 				1EA6D13A2A56F525008944C0 /* Helper.swift in Sources */,
